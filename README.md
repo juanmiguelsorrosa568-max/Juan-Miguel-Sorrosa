@@ -37,4 +37,4 @@ A passionate developer with hands-on experience building practical software solu
 
 ### 📫 Connect with Me
 - **LinkedIn:** https://github.com/juanmiguelsorrosa568-max/Juan-Miguel-Sorrosa/edit/main/README.md
-- **Email:** your.email@example.com
+- **Email: juanmiguelsorrosa568@gmail.com
